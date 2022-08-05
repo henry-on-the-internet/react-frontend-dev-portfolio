@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Henry Shih. I have rich experience working at top companies. Working with React JS and Go, I am a professional full-stack developer. Please reach out to me if you are hiring or want to discuss skills with me. Thank you",
+      "description": "👋 I'm Henry Shih. I have rich experience working at top companies. Working with React JS and Go, I am a professional full-stack developer. Please reach out to me if you are hiring or want to discuss skills with me. Thank you.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "To Do List",
         "startDate": "2020",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://henry-on-the-internet.github.io/to-do-list",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
