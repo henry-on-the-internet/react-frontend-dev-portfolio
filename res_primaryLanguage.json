@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Henry Shih. I have rich experience working at top companies. Working with React JS and Go, I am a professional full-stack developer. Please reach out to me if you are hiring or want to discuss skills with me. Thank you.",
+      "description": "👋 I'm Henry Shih. I have rich experience of working at top companies. Working mainly with React and Go, I am a professional full-stack developer. Please reach out to me if you are hiring or want to discuss skills with me. Thank you.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -51,26 +51,22 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "To-do List",
+        "startDate": "2020",
+        "description": "The project is an easy-to-use to-do list for getting more done without neglecting important tasks.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://henry-on-the-internet.github.io/to-do-list",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
           }
         ]
       }
@@ -97,7 +93,7 @@
           "Online Marketplace System"
         ],
         "technologies": [
-          "Ruby",
+          "Ruby on Rails",
           "REST API",
           "Microservices",
           "React JS",
@@ -109,10 +105,11 @@
         "title": "Application Developer",
         "years": "11.2017 - 01.2021",
         "mainTech": [
-          "Bank and Insurance Core System"
+          "Bank and Insurance Core System", "Manufacturing Execution System"
         ],
         "technologies": [
           "Java",
+          "C++",
           "React JS",
           "MySQL"
         ]
