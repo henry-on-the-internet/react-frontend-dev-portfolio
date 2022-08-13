@@ -35,8 +35,8 @@
         "startDate": "2020",
         "description": "COVID-19 affects different people in different ways. Protect yourself and others around you by knowing the facts and taking appropriate precautions. Take the quiz to know how good you understand how to combat COVID-19.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/interactive-quiz/p1.jpg",
+          "images/portfolio/interactive-quiz/p2.jpg"
         ],
         "url": "https://henry-on-the-internet.github.io/interactive-quiz/",
         "technologies": [
