@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "To-do List",
+        "title": "Salad Builder",
         "startDate": "2020",
-        "description": "The project is an easy-to-use to-do list for getting more done without neglecting important tasks.",
+        "description": "Customization of a product (e.g. cars) is the manufacturing ability to offer a variety of designs or details for one product, made specifically to a buyer's liking. The project is for a user to customize his/her own salad.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/salad-builder/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "https://henry-on-the-internet.github.io/to-do-list",
+        "url": "https://henry-on-the-internet.github.io/salad-builder",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -31,14 +31,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Interactive Quiz",
+        "startDate": "2020",
+        "description": "COVID-19 affects different people in different ways. Protect yourself and others around you by knowing the facts and taking appropriate precautions. Take the quiz to know how good you understand how to combat COVID-19.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://henry-on-the-internet.github.io/interactive-quiz/",
         "technologies": [
           {
             "class": "devicon-react-original",
