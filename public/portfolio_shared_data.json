@@ -39,6 +39,11 @@
           "level": "90"
         },
         {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "90"
+        },
+        {
           "name": "Ruby on rails",
           "class": "devicon-ruby-plain",
           "level": "90"
@@ -46,6 +51,11 @@
         {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
           "level": "90"
         },
         {
@@ -61,6 +71,11 @@
         {
           "name": "Docker",
           "class": "devicon-docker-plain",
+          "level": "60"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
           "level": "60"
         }
       ]

@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "To-do List",
+        "title": "Salad Builder",
         "startDate": "2020",
-        "description": "The project is an easy-to-use to-do list for getting more done without neglecting important tasks.",
+        "description": "Customization of a product (e.g. cars) is the manufacturing ability to offer a variety of designs or details for one product, made specifically to a buyer's liking. The project is for a user to customize his/her own salad.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/salad-builder/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "https://henry-on-the-internet.github.io/to-do-list",
+        "url": "https://henry-on-the-internet.github.io/salad-builder",
         "technologies": [
           {
             "class": "devicon-react-original",
