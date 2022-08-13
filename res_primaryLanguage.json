@@ -55,8 +55,7 @@
         "startDate": "2020",
         "description": "The project is an easy-to-use to-do list for getting more done without neglecting important tasks.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/to-do-list/p1.jpg"
         ],
         "url": "https://henry-on-the-internet.github.io/to-do-list",
         "technologies": [
